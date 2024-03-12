@@ -1,0 +1,1 @@
+{"animal": [{"name": "MH88", "condition": "Loom", "batch": 1}]}
